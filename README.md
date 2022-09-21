@@ -1,5 +1,5 @@
 # parameterTest
- Simulations of various strategies for day trading crypto
+ Simulations to test the fit of a equation to real life stock prices fitted in a sql table. Testing to see how the time complexity of various looping and testing methods worked out.
  
  Tries to fit equation of asin((2pi/p(x-h)) + mx + b to short term and long term data
  where 
